@@ -5,5 +5,5 @@ This is a library for a display with pic and xc8, only works with PORTB
 Only works with PORTB -->
 RB0,RB1,RB2,RB3,RB4,RB5,RB6
 
-##Usage
+## Usage
 ShowDisp(int value);
